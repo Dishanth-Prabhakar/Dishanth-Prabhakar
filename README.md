@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/72274851/152804344-275f01b6-3d85-4a24-94a8-c449e516e52a.gif" width="35px">, I'm Dishanth P</h1>
+<p align="middle"> <img src="https://user-images.githubusercontent.com/72274851/152816504-1f9f0a08-82c8-41dd-86c6-e1338e337888.gif" width="200px"><h2> I'm Dishanth P </h2><img src="https://user-images.githubusercontent.com/72274851/152804344-275f01b6-3d85-4a24-94a8-c449e516e52a.gif" width="40px">
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishanth-prabhakar&label=Profile%20views&color=0e75b6&style=flat" alt="dishanth-prabhakar" /> </p>
 
 - 📫 How to reach me : **dishanthprabhakar206@gmail.com**
