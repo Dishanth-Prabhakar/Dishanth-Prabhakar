@@ -1,11 +1,11 @@
 <p align="middle"> <img src="https://user-images.githubusercontent.com/72274851/152816504-1f9f0a08-82c8-41dd-86c6-e1338e337888.gif" width="200px"><h2> I'm Dishanth P </h2>
-<br/>
+  
+- 😄 Pronouns : He/his
   
 - 📫 How to reach me : **dishanthprabhakar206@gmail.com**
   
 - 📄 Know about my experiences : [https://drive.google.com/file/d/1w_OKoRiKURMDGhILCGjhqd6NLV5NqRAh/view?usp=sharing](https://drive.google.com/file/d/1w_OKoRiKURMDGhILCGjhqd6NLV5NqRAh/view?usp=sharing)
 
-- 😄 Pronouns : He/his
 
 
 <h3 align="left">Connect with me:</h3>
